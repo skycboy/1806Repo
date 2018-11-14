@@ -1,2 +1,4 @@
 <?php
-echo 'I'm a dog';
+echo 'i am a dog';
+
+echo 'you are a baby';
